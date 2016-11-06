@@ -1,26 +1,28 @@
 {
-  "name": "base-project",
-  "version": "1.0.0",
-  "description": "A base node setup for quickly creating node apps",
+  "name": "woot",
+  "version": "0.0.1",
+  "description": "Curated web application for the video game industry",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PikeTheCrow/node-project-bsae.git"
+    "url": "git+https://github.com/PikeTheCrow/woot.git"
   },
   "keywords": [
     "node",
-    "base",
-    "app"
+    "vue",
+    "gaming",
+    "video games",
+    "curated"
   ],
   "author": "Alan Williams",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PikeTheCrow/node-project-bsae/issues"
+    "url": "https://github.com/PikeTheCrow/woot/issues"
   },
-  "homepage": "https://github.com/PikeTheCrow/node-project-bsae#readme",
+  "homepage": "https://github.com/PikeTheCrow/woot#readme",
   "dependencies": {
     "dot": "^1.1.0",
     "gulp": "^3.9.1",
