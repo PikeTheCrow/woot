@@ -27,9 +27,14 @@
     "dot": "^1.1.0",
     "gulp": "^3.9.1",
     "hapi": "^15.2.0",
+    "jasmine": "^2.5.2",
     "node-horseman": "^3.2.0",
     "nodemon": "^1.11.0",
+    "orientjs": "^2.2.3",
+    "phantomjs-prebuilt": "^2.1.13",
     "requirejs": "^2.3.2",
-    "vue": "^2.0.5"
+    "selenium-webdriver": "^3.0.0",
+    "vue": "^2.0.5",
+    "zombie": "^5.0.1"
   }
 }
