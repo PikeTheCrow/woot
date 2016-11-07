@@ -33,7 +33,6 @@
     "orientjs": "^2.2.3",
     "phantomjs-prebuilt": "^2.1.13",
     "requirejs": "^2.3.2",
-    "selenium-webdriver": "^3.0.0",
     "vue": "^2.0.5",
     "zombie": "^5.0.1"
   }
