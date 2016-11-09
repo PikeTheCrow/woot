@@ -1,0 +1,8 @@
+-d=db
+-h=localhost
+-p=3000
+-u=pikethecrow
+-s=a@280989aW
+-n=articles
+-U=articles
+-P=a@280989aW
